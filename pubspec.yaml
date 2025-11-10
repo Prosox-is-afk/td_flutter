@@ -39,6 +39,12 @@ dependencies:
   cupertino_icons: ^1.0.8
   
   google_fonts: ^6.3.2
+  settings_ui: ^2.0.2
+  share_preferences: ^2.2.2
+  provider: ^6.1.1
+  sqlite: ^2.3.2
+  path: ^1.8.3
+  sqlite_common_ffi: ^2.3.6
 
 dev_dependencies:
   flutter_test:
