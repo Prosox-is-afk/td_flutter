@@ -29,8 +29,7 @@ class Ecran1 extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) 
-                    => Detail(task: myTasks[index]),
+                    builder: (context) => Detail(task: myTasks[index]),
                   ),
                 );
               },
